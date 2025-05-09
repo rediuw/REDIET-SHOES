@@ -1,28 +1,38 @@
-# Rediet-Shoes: Heels E-Commerce UI Design
+# Rediet-Shoes: Heels E-Commerce UI/UX Design (Figma)
 
-This repository contains the Figma design files for **Rediet-Shoes**, an e-commerce platform concept focused exclusively on stylish heels. The design presents a smooth user journey from browsing to checkout and order confirmation.
+This repository showcases a complete **UI/UX design** project built using **Figma**, focused on an elegant e-commerce experience for heel shoppers. It demonstrates a user-friendly, clean, and modern shopping flow — from discovering products to placing an order.
 
-## 🎨 Overview
+## 🎯 Project Overview
 
-This Figma design consists of **4 main pages** that represent the core user flow for an online heel shopping experience:
+**Rediet-Shoes** is a concept for a niche online shoe store specializing in **heels**. The goal was to design a minimalist, accessible, and visually appealing interface that makes online shopping intuitive and enjoyable.
+
+## 🛠 Tools Used
+
+- **Figma** – for UI/UX design and prototyping
+- **Typography, color palette, and layout grids** – to maintain visual hierarchy and consistency
+
+## 📄 Pages Included
 
 1. **Home Page**
-   - Showcases featured heels
-   - Clean and modern layout
-   - Encourages browsing and discovery
+   - Features a clean layout with product previews and CTAs
+   - Encourages product exploration
 
 2. **Product Detail Page**
-   - Displays detailed information about a selected heel
-   - Includes images, price, size selection, and description
-   - “Add to Cart” functionality mock-up
+   - Displays shoe images, descriptions, sizes, and prices
+   - Includes "Add to Cart" interaction design
 
 3. **Checkout Page**
-   - Users can review items and make payment
-   - Includes payment methods, billing info, and delivery options
+   - Collects payment, shipping, and billing information
+   - Designed to be minimal and clear
 
 4. **Confirmation Page**
-   - Displays order success message
-   - Confirms delivery details and estimated arrival
+   - Confirms successful payment and order
+   - Shows delivery estimate and thank-you message
 
+## 🧩 UX Design Principles Applied
 
+- **Consistency** in colors, buttons, and text styles  
+- **Visual hierarchy** for readability and flow  
+- **Minimalism** to reduce cognitive load  
+- **Mobile-friendly layout** considerations (can be adapted)
 
